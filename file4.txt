@@ -1,1 +1,2 @@
 This is file 4 from local resporitory
+This is a new line for feature branch
